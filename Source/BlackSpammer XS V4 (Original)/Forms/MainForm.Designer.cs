@@ -309,7 +309,7 @@
             this.guna2HtmlLabel11.Name = "guna2HtmlLabel11";
             this.guna2HtmlLabel11.Size = new System.Drawing.Size(180, 20);
             this.guna2HtmlLabel11.TabIndex = 16;
-            this.guna2HtmlLabel11.Text = "ZIOEREN";
+            this.guna2HtmlLabel11.Text = "ZygoteCode";
             this.guna2HtmlLabel11.TextAlignment = System.Drawing.ContentAlignment.TopCenter;
             // 
             // guna2Button4
@@ -922,7 +922,7 @@
             this.guna2HtmlLabel4.Name = "guna2HtmlLabel4";
             this.guna2HtmlLabel4.Size = new System.Drawing.Size(544, 20);
             this.guna2HtmlLabel4.TabIndex = 1;
-            this.guna2HtmlLabel4.Text = "ZioEren#5791";
+            this.guna2HtmlLabel4.Text = "ZygoteCode#5791";
             this.guna2HtmlLabel4.TextAlignment = System.Drawing.ContentAlignment.TopRight;
             // 
             // guna2HtmlLabel3
