@@ -1,0 +1,34 @@
+C:\Users\ZygoteCode\Desktop\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\bin\Release\BlackSpammer XS V4.exe.config
+C:\Users\ZygoteCode\Desktop\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\bin\Release\BlackSpammer XS V4.exe
+C:\Users\ZygoteCode\Desktop\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\bin\Release\BlackSpammer XS V4.pdb
+C:\Users\ZygoteCode\Desktop\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\bin\Release\Guna.UI2.dll
+C:\Users\ZygoteCode\Desktop\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\BlackSpammer XS V4.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\BlackSpammer XS V4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZygoteCode\Desktop\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\Logger.resources
+C:\Users\ZygoteCode\Desktop\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\Login.resources
+C:\Users\ZygoteCode\Desktop\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\MainForm.resources
+C:\Users\ZygoteCode\Desktop\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\TextGenerator.resources
+C:\Users\ZygoteCode\Desktop\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\TextResult.resources
+C:\Users\ZygoteCode\Desktop\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\BlackSpammer_XS_V4.Properties.Resources.resources
+C:\Users\ZygoteCode\Desktop\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\BlackSpammer XS V4.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\BlackSpammer XS V4.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\BlackSpammer XS V4.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\BlackSpammer XS V4.exe
+C:\Users\ZygoteCode\Desktop\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\BlackSpammer XS V4.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\bin\Release\BlackSpammer XS V4.exe.config
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\bin\Release\BlackSpammer XS V4.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\bin\Release\BlackSpammer XS V4.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\bin\Release\Guna.UI2.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\BlackSpammer XS V4.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\BlackSpammer XS V4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\Logger.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\Login.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\MainForm.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\TextGenerator.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\TextResult.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\BlackSpammer_XS_V4.Properties.Resources.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\BlackSpammer XS V4.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\BlackSpammer XS V4.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\BlackSpammer XS V4.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\BlackSpammer XS V4.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\BlackSpammer Leak\Source\BlackSpammer XS V4 (Original)\obj\Release\BlackSpammer XS V4.pdb
